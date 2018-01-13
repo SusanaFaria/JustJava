@@ -1,0 +1,54 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">>
+    <string name="app_name">Just Java</string>
+
+    <!--editable text name-->
+    <string name="name">Name</string>
+
+    <!--header text for the toppings list [CHAR LIMIT=20]-->
+    <string name="toppings">Toppings</string>
+
+    <!--Text for whipped cream checkbox[CHAR LIMIT=20]-->
+    <string name="WhippedCream">Whipped Cream</string>
+
+    <!--Text for chocolate checkbox[CHAR LIMIT=20]-->
+    <string name="Chocolate">Chocolate</string>
+
+    <!--Text for the quantity [CHAR LIMIT=NONE9]-->
+    <string name="quantity">How many cups?</string>
+
+    <!--Text for the order summary [CHAR LIMIT=20]-->
+    <string name="OrderSummary">OrderSummary</string>
+
+    <!--text for the order button[CHAR LIMIT=20]-->
+    <string name="Order">Order</string>
+
+    <!--text for too much coffee [CHAR LIMIT=NONE]-->
+    <string name="tooMuchCoffee">Isn\'t that too much coffee?</string>
+
+    <!--text for no negative coffees [CHAR LIMIT=NONE]-->
+    <string name="tooFewCoffees">You can\'t have negative coffees, can you?</string>
+
+    <!--text for the email subject [CHAR LIMIT=20]-->
+    <string name="yourOrder">Your Order</string>
+
+    <!--add cream to the order summary message [CHAR LIMIT=20]-->
+    <string name="withCream">Add Whipped Cream? </string>
+
+    <!--add choc to the order summary message [CHAR LIMIT=20]-->
+    <string name="withChoc">Add Chocolate? </string>
+
+    <!--quantity in the order summary [CHAR LIMIT=NONE]-->
+    <string name="Quantity">Quantity: </string>
+
+    <!--total price in the order summary [CHAR LIMIT=20]-->
+    <string name="total">Total: </string>
+
+
+    <!--thank you message for the order summary [CHAR LIMIT=20]-->
+    <string name="thank_you">Thank You!</string>
+
+    <!--Name for the order summary. It will be shown in the format of "Name: Amy" where Amy is the
+      user's name. [CHAR LIMIT=NONE] -->
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+</resources>
